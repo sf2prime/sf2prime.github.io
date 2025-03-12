@@ -8,6 +8,7 @@ https://discord.gg/nUqV3CJx
 fix Akuma Shoryuken Sprite
 fix Guile lk sound
 fix Akuma End scene
+English Ends scene
 =======================================================================================================
 0.3
 
