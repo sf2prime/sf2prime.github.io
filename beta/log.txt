@@ -3,12 +3,13 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 =======================================================================================================
-0.31
+0.32
 
 fix Akuma Shoryuken Sprite
 fix Guile lk sound
 fix Akuma End scene
-English Ends scene
+Ken Fire HP Shoryuken in prime mode
+Ryu HP 2 hits Shoryuken in prime mode
 =======================================================================================================
 0.3
 
