@@ -3,13 +3,16 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 =======================================================================================================
-0.32
+0.33
 
+fix freeze bug in round end
 fix Akuma Shoryuken Sprite
 fix Guile lk sound
 fix Akuma End scene
+fix announcer's voice in random stage pvp
 Ken Fire HP Shoryuken in prime mode
-Ryu HP 2 hits Shoryuken in prime mode
+Ryu hit 1 HP Shoryuken knock down in prime mode
+
 =======================================================================================================
 0.3
 
