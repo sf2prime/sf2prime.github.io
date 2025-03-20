@@ -9,9 +9,12 @@ fix freeze bug in round end
 fix Akuma Shoryuken Sprite
 fix Guile lk sound
 fix Akuma End scene
+fix Akuma hit without defense in Shoryuken
 fix announcer's voice in random stage pvp
 Ken Fire HP Shoryuken in prime mode
 Ryu hit 1 HP Shoryuken knock down in prime mode
+Guile hit 1 HP Somersault Kick juggle in prime mode
+Chun li Kikoken ssf2 sprites in prime mode
 
 =======================================================================================================
 0.3
