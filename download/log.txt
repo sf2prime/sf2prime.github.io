@@ -3,6 +3,13 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 =======================================================================================================
+0.41
+
+fix Ryu mp punch
+fix End texts
+fix Balrog Start Lose Portrait
+
+=======================================================================================================
 0.4
 
 fix freeze bug in round end
