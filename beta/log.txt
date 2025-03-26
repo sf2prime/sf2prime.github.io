@@ -5,6 +5,7 @@ https://discord.gg/nUqV3CJx
 =======================================================================================================
 0.42
 
+Fast music only when it's possible to end the fight
 Chun Li Cancel Spinning Bird Kick with start (use 16 points) in prime mode
 =======================================================================================================
 0.41
