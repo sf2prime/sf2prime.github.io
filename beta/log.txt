@@ -7,6 +7,7 @@ https://discord.gg/nUqV3CJx
 
 Fast music only when it's possible to end the fight
 Chun Li Cancel Spinning Bird Kick with start (use 16 points) in prime mode
+Fix CPU Dhalsim in sf2ce mode
 =======================================================================================================
 0.41
 
