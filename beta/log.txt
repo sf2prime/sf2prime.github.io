@@ -6,6 +6,7 @@ https://discord.gg/nUqV3CJx
 0.46
 
 Ryu X HadouKen 180 + P (prime mode)
+Ryu new start color (prime mode)
 Fix Akuma Start palette (sf2hf mode)
 Minor adjustments to the portraits of Bison and Sagat (Sprites by ErnartCastel)
 
