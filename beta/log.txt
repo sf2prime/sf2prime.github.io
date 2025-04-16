@@ -3,8 +3,10 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 =======================================================================================================
-0.47
+0.48
 
+Bison's Teleport (f,d,df +k)
+Bison's grab sound (all modes)
 Ryu X HadouKen 180 + P (prime mode)
 Ryu new start color (prime mode)
 Fix Akuma Start palette (sf2hf mode)
