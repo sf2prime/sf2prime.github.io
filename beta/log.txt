@@ -3,7 +3,7 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 =======================================================================================================
-0.48
+0.48a
 
 Bison's Teleport (f,d,df +k)
 Bison's grab sound (all modes)
