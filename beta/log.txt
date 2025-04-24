@@ -5,12 +5,12 @@ https://discord.gg/nUqV3CJx
 =======================================================================================================
 0.49
 
-Bison's Teleport in prime mode (f,d,df +k) 12 stun points 
+Bison's Teleport in "prime mode" (f,d,df +k) 12 stun points 
 Bison after the Head Stomp if he presses Kick and has enough Stun Points uses the Teleport
 Bison Scissor Knee knock down (prime mode)
 Bison's grab sound (all modes)
-Sagat Tiger Uppercut collision box adjustments 
-Sagat Tiger Knee going a little further  
+Sagat Tiger Uppercut collision box adjustments (prime mode) 
+Sagat Tiger Knee going a little further (prime mode)  
 Ryu X HadouKen 180 + P (prime mode)
 Ryu new start color (prime mode)
 Fix Akuma Start palette (sf2hf mode)
