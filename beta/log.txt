@@ -6,12 +6,14 @@ https://discord.gg/nUqV3CJx
 0.49
 
 Bison's Teleport in prime mode (f,d,df +k) 12 stun points 
-Bison after the Somersault Skull Diver if he presses kick and has enough Stun Points uses the Teleport
+Bison after the Head Stomp if he presses Kick and has enough Stun Points uses the Teleport
+Bison Scissor Knee knock down (prime mode)
 Bison's grab sound (all modes)
 Ryu X HadouKen 180 + P (prime mode)
 Ryu new start color (prime mode)
 Fix Akuma Start palette (sf2hf mode)
 Minor adjustments to the portraits of Bison and Sagat (Sprites by ErnartCastel)
+Higher difficulty if level 8 (prime mode)
 
 =======================================================================================================
 0.45
