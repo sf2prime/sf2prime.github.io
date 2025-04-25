@@ -3,6 +3,23 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 =======================================================================================================
+0.50
+
+Bison's Teleport in prime mode (f,d,df +k) 12 stun points 
+Bison after the Head Stomp if he presses Kick and has enough Stun Points uses the Teleport
+Bison Scissor Knee knock down (prime mode)
+Bison's grab sound (all modes)
+Vega's grab sound (all modes)
+Sagat Tiger Uppercut collision box adjustments 
+Sagat Ground Tiger Shot can only be defended down  
+Sagat Tiger Knee going a little further  
+Ryu X HadouKen 180 + P (prime mode)
+Ryu new start color (prime mode)
+Fix Akuma Start palette (sf2hf mode)
+Minor adjustments to the portraits of Bison and Sagat (Sprites by ErnartCastel)
+Higher difficulty if level 8 (prime mode)
+
+=======================================================================================================
 0.45
 
 Akuma Teleport (f,d,df +k / b,d,db +k)
