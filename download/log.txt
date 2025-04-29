@@ -5,10 +5,11 @@ https://discord.gg/nUqV3CJx
 =======================================================================================================
 0.50
 
-Bison's Teleport in prime mode (f,d,df +k) 12 stun points 
+Bison's Teleport in prime mode (f,d,df +K or +KKK) 12 stun points 
 Bison after the Head Stomp if he presses Kick and has enough Stun Points uses the Teleport
 Bison Scissor Knee knock down (prime mode)
 Bison's grab sound (all modes)
+After Head Stomp press any kick for use Teleport
 Vega's grab sound (all modes)
 Sagat Tiger Uppercut collision box adjustments 
 Sagat Ground Tiger Shot can only be defended down  
@@ -42,6 +43,7 @@ Chun Li new start color (prime mode)
 =======================================================================================================
 0.4
 
+Vega just Wall Dive's weak kick sends him into the fence (Vega background) 
 fix freeze bug in round end
 fix Akuma Shoryuken Sprite
 fix Guile lk sound
