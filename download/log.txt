@@ -3,7 +3,7 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 
-=======================================================================================================
+======================================================================================================
 0.50
 
 Bison's Teleport in prime mode (f,d,df +K or +KKK) 12 stun points 
@@ -31,6 +31,7 @@ All of Akuma's air hadoukens spend 1/3 of the Stun points (16 in prime / 10 in o
 Chun Li Cancel Spinning Bird Kick with start (use 16 points) in prime mode
 Fix CPU Dhalsim in sf2ce mode
 Bison new start color (prime mode)
+Lowered fence in the Zanguief background (all modes)
 
 =======================================================================================================
 0.41
@@ -65,5 +66,9 @@ No intro in sf2ce and sf2hf modes
 =======================================================================================================
 0.3
 
-Initial Release
+- Vesus Mode (always select character) in (all modes)
+- Random Backgrounds in PVP (all modes)
+- Shows stun points (all modes)
+- Last 2 digits of the score mark victories in pvp (all modes)
+- Easy TAP Moves (Honda, Blanka, Chun Li) in (all modes)
 =======================================================================================================
