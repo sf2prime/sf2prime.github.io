@@ -6,6 +6,7 @@ https://discord.gg/nUqV3CJx
 0.51
 
 Fix Akuma coilision box in lk, mk (thanks to Juan Man)
+Zangief with skin-colored scars sprites (all modes)
 
 =======================================================================================================
 0.50
