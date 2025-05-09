@@ -6,8 +6,10 @@ https://discord.gg/nUqV3CJx
 0.51
 
 Fix Akuma coilision box in lk, mk (thanks to Juan Man)
+Fix Start Ryu X Hadouken sprite 
 Zangief with skin-colored scars sprites (all modes)
 New Zangief intro (Sprites by ErnartCastel)
+Random Select (left in Ken) in Select Screen
 
 =======================================================================================================
 0.50
