@@ -9,7 +9,9 @@ Fix Akuma coilision box in lk, mk (thanks to Juan Man)
 Fix Start Ryu X Hadouken sprite 
 Zangief with skin-colored scars sprites (all modes)
 New Zangief intro (Sprites by ErnartCastel)
-Random Select (left in Ken) in Select Screen
+Select Screen - Start changes the palette but does not select char
+Select Screen - Random Select (hold 3 kicks)
+Select Screen - Turbo Select (press up in the first column)
 
 =======================================================================================================
 0.50
