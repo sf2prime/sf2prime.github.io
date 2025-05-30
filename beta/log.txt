@@ -3,16 +3,18 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 =======================================================================================================
-0.52
+0.53
 
 Fix Akuma coilision box in lk, mk (thanks to Juan Man)
 Fix Start Ryu X Hadouken sprite 
 Zangief with skin-colored scars sprites (all modes)
 New Zangief intro (Sprites by ErnartCastel)
+All crounch attacks that are not strong can be canceled into moves (prime mode)
 Select Screen - Start changes the palette but does not select char
 Select Screen - Random Select (hold 3 kicks)
 Select Screen - Turbo Select (press up in the first column)
 Select Screen - Background Select in PvP (press down in the last column)
+TECH HIT Message
 
 =======================================================================================================
 0.50
