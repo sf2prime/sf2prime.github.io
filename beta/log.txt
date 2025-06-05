@@ -15,6 +15,7 @@ Select Screen - Random Select (hold 3 kicks)
 Select Screen - Turbo Select (press up in the first column)
 Select Screen - Background Select in PvP (press down in the last column)
 TECH HIT Message
+Hits Combo Message
 
 =======================================================================================================
 0.50
