@@ -2,8 +2,27 @@
 Discord Channel:
 
 https://discord.gg/nUqV3CJx
+=======================================================================================================
+0.55
 
-======================================================================================================
+Fix Akuma coilision box in lk, mk (thanks to Juan Man)
+Fix Start Ryu X Hadouken sprite 
+Zangief with skin-colored scars sprites (all modes)
+New Zangief intro (Sprites by ErnartCastel)
+Vega Barcelona Attack more faster (prime mode)
+Select Screen - Start changes the palette but does not select char
+Select Screen - Random Select (hold 3 kicks)
+Select Screen - Turbo Select (press up in the first column)
+Select Screen - Background Select in Player vs Player (press down in the last column)
+Number of HITS Message
+STUN Message 
+TECH HIT Message (prime mode)
+COUNTER Message (prime mode)
+If an enemy is knocked down in Counter, they can be hit again for a short time
+New cancellations of Normals in Supers (prime mode) 
+https://sf2prime.github.io/img/normal_cancel.png
+
+=======================================================================================================
 0.50
 
 Bison's Teleport in prime mode (f,d,df +K or +KKK) 12 stun points 
