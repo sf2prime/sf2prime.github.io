@@ -3,6 +3,15 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 =======================================================================================================
+0.56
+
+Fix Bison kicks
+Fix Ryu lp
+Fix no restart music (thanks to https://www.youtube.com/@ULTIMATEPLAYERTAS)
+Fix Counter message in guard (thanks to https://www.youtube.com/@ULTIMATEPLAYERTAS)
+Small changes in Chun Li Sprites
+
+=======================================================================================================
 0.55
 
 Fix Akuma coilision box in lk, mk (thanks to Juan Man)
