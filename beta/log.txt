@@ -3,9 +3,10 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 =======================================================================================================
-0.56a
+0.56b
 
-Fixed Random background name in VS Screen. (thanks hackrom.cn) 
+Fixed Random background name in VS Screen. (thanks hackrom.cn)
+Restored sf2 palm tree in Sagat Background (prime mode) 
 
 =======================================================================================================
 0.56
