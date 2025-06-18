@@ -6,7 +6,8 @@ https://discord.gg/nUqV3CJx
 0.56b
 
 Fixed Random background name in VS Screen. (thanks hackrom.cn)
-Restored sf2 palm tree in Sagat Background (prime mode) 
+Restored sf2 palm tree in Sagat Background (prime mode)
+Fixed F-16 cockpit and tail in Guile Stage 
 
 =======================================================================================================
 0.56
