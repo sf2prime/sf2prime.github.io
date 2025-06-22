@@ -3,8 +3,9 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 =======================================================================================================
-0.56b
+0.56c
 
+New cancellations of Normals do not work if the enemy is on defense (prevents locking on defense)
 Fixed Random background name in VS Screen. (thanks hackrom.cn)
 Restored sf2 palm tree in Sagat Background (prime mode)
 Fixed F-16 cockpit and tail in Guile Stage 
