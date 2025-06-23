@@ -9,7 +9,7 @@ Fixed cancellations of Normals do not work if the enemy is on defense (prevents 
 Fixed Random background name in VS Screen. (thanks hackrom.cn)
 Restored sf2 palm tree in Sagat Background (prime mode)
 Fixed F-16 cockpit and tail in Guile Stage 
-New Stand pose for Akuma
+New Stand pose for Akuma (Sprites by ErnartCastel)
 Akuma receives a little more damage than normal in player vs player
 
 =======================================================================================================
