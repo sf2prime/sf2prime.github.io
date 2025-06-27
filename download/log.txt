@@ -14,6 +14,7 @@ Chun Li fix shoyuken combo defense in the corner of the screen (Thanks @Persona)
 Chun Li Kikoken in hp - knocked down (prime mode)
 Dhalsim near lp hitbox overhead
 Guile back + HK hitbox overhead
+Akuma Diagonal Jumping mk (crossup)
 
 =======================================================================================================
 0.57
