@@ -2,13 +2,36 @@
 Discord Channel:
 
 https://discord.gg/nUqV3CJx
-=======================================================================================================
-0.56c
 
-New cancellations of Normals do not work if the enemy is on defense (prevents locking on defense)
+=======================================================================================================
+0.59a
+
+Bison fix shoyuken combo defense in the corner of the screen (Thanks @Persona)
+Chun Li with a slightly faster Kikoken animation to be used in combos
+
+=======================================================================================================
+0.59
+
+More Fixes in new cancellations of Normals
+In player vs player defeated enemy is not deleted from CPU list
+Ryu foward + mp overhead (prime mode)
+Ryu foward + hp (prime mode)
+Ryu diagonal jump + mp (prime mode) 
+Chun Li fix shoyuken combo defense in the corner of the screen (Thanks @Persona)
+Chun Li Kikoken in hp - knocked down (prime mode)
+Dhalsim near lp hitbox overhead
+Guile back + HK hitbox overhead
+Akuma Diagonal Jumping mk (crossup)
+
+=======================================================================================================
+0.57
+
+Fixed cancellations of Normals do not work if the enemy is on defense (prevents locking on defense)
 Fixed Random background name in VS Screen. (thanks hackrom.cn)
 Restored sf2 palm tree in Sagat Background (prime mode)
 Fixed F-16 cockpit and tail in Guile Stage 
+New Stand pose for Akuma (Sprites by ErnartCastel)
+Akuma receives a little more damage than normal in player vs player
 
 =======================================================================================================
 0.56
