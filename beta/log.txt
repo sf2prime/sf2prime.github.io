@@ -4,11 +4,11 @@ Discord Channel:
 https://discord.gg/nUqV3CJx
 
 =======================================================================================================
-0.59b
+0.60
 
 Bison fix shoyuken combo defense in the corner of the screen (Thanks @Persona)
 Chun Li with a slightly faster Kikoken animation to be used in combos
-Testing breakable objects in the background causes damage
+New Breakable objects in the backgrounds and causes damage (prime mode)
 
 =======================================================================================================
 0.59
