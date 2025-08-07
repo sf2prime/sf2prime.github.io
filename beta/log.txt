@@ -4,11 +4,24 @@ Discord Channel:
 https://discord.gg/nUqV3CJx
 
 =======================================================================================================
+0.62
+
+Fixed old bug where Honda gets struck at the corners, whenever grabbed by Zangief's SPD and MP pile 
+driver. (Thanks @Persona)
+Vega fix shoyuken combo defense in the corner of the screen (Thanks @Persona)
+Fixed some bugs in backgrounds objects
+Better performance with delayed sounds.
+Guile ssf2t Somersault Kick sound
+Honda background - animation falling into the bathtub after losing 2 rounds and landing right in 
+the center (prime mode)
+
+=======================================================================================================
 0.60
 
 Bison fix shoyuken combo defense in the corner of the screen (Thanks @Persona)
 Chun Li with a slightly faster Kikoken animation to be used in combos
-New Breakable objects in the backgrounds and causes damage (prime mode)
+New breakable objects in the *background that cause minor damage (prime mode)
+*Bgs: Guile, Ken, Bison, Ryu, Honda, Blanka, Chun-Li 
 
 =======================================================================================================
 0.59
