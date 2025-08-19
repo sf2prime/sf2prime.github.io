@@ -28,6 +28,7 @@ New breakable objects in the *background that cause minor damage (prime mode)
 0.59
 
 More Fixes in new cancellations of Normals
+https://sf2prime.github.io/img/normal_cancel.png
 In player vs player defeated enemy is not deleted from CPU list
 Ryu foward + mp overhead (prime mode)
 Ryu foward + hp (prime mode)
