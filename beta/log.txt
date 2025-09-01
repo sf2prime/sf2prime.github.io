@@ -6,11 +6,12 @@ https://discord.gg/nUqV3CJx
 =======================================================================================================
 0.64
 
-Blanka Overhead frente soco médio
-Chun Li Overhead frente chute forte
+New Background added for Akuma 
+Blanka Rock Crush Overhead (foward + mp)
+Chun Li Tumbling Kick Overhead (foward + hk)
 Zanguief mk, hk, lariat ssf2t hitbox
-Ajuste de hitbox Honda Sumo splash para ficar mais fácil desviar projéteis 
-Teste com Cenário de Akuma 
+Honda Sumo Smash hitbox adjusted to make it easier to dodge projectiles 
+Ken Taunt in start (prime mode)
  
 =======================================================================================================
 0.63
