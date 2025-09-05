@@ -4,19 +4,21 @@ Discord Channel:
 https://discord.gg/nUqV3CJx
 
 =======================================================================================================
-0.64
+0.65
 
-New Background added for Akuma 
+New Background added for Akuma (selectable in PvP)
 Blanka Rock Crush Overhead (foward + mp)
-Chun Li Tumbling Kick Overhead (foward + hk)
 Zanguief mk, hk, lariat ssf2t hitbox
 Honda Sumo Smash hitbox adjusted to make it easier to dodge projectiles 
 Sagat Background with SF2 colors
 Fix boss names victory em pvp (thanks to Fire's will T0)
+Fix You Loose sound (thanks to Fire's will T0)
 Fix Chun Li rapid light punch
+Chun Li Tumbling Kick Overhead (foward + hk)
+Chun Li complement to Kikoken's animation (prime mode)
 Chun Li Taunt in start (prime mode)
 Ken Taunt in start (prime mode)
-
+Fixed some situations that caused the screen to freeze after the score was counted.
  
 =======================================================================================================
 0.63

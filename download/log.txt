@@ -4,6 +4,23 @@ Discord Channel:
 https://discord.gg/nUqV3CJx
 
 =======================================================================================================
+0.65
+
+New Background added for Akuma (selectable in PvP)
+Blanka Rock Crush Overhead (foward + mp)
+Zanguief mk, hk, lariat ssf2t hitbox
+Honda Sumo Smash hitbox adjusted to make it easier to dodge projectiles 
+Sagat Background with SF2 colors
+Fix boss names victory em pvp (thanks to Fire's will T0)
+Fix You Loose sound (thanks to Fire's will T0)
+Fix Chun Li rapid light punch
+Chun Li Tumbling Kick Overhead (foward + hk)
+Chun Li complement to Kikoken's animation (prime mode)
+Chun Li Taunt in start (prime mode)
+Ken Taunt in start (prime mode)
+Fixed some situations that caused the screen to freeze after the score was counted.
+ 
+=======================================================================================================
 0.63
 
 Fixed old bug where Honda gets struck at the corners, whenever grabbed by Zangief's SPD and MP pile 
@@ -100,7 +117,7 @@ Higher difficulty if level 8 (prime mode)
 0.45
 
 Akuma Teleport (f,d,df +k / b,d,db +k)
-Akuma Provoke by pressing Start (all modes)
+Akuma Taunt by pressing Start (all modes)
 Fast music only when it's possible to end the fight
 All of Akuma's air hadoukens spend 1/3 of the Stun points (16 in prime / 10 in others)
 Chun Li Cancel Spinning Bird Kick with start (use 16 points) in prime mode
