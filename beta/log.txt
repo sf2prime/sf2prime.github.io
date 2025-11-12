@@ -3,9 +3,39 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 
-=======================================================================================================
-0.65
 
+=======================================================================================================
+0.68
+
+Select Screen Character preview and color selection in Start or hold Start + left or right 
+Display damage percentage in HITS Message
+Added Blanka wall jump (prime mode)
+Blanka Rolling Attack can be done on the air (prime mode) 
+Blanka Static Ball - back + down + HP / overhead (prime mode)
+Blanka Slide - foward + down + HP (prime mode)
+Blanka Taunt in start (prime mode) 
+Blanka Vertical Roll hits can make combos
+Blanka strong Rolling Attack and Vertical Roll knock down  
+Adjustments to Blanka, Chun Li, and Bison sprites
+Bison Head Press -> Attack Burns and reduces defense damage 
+Bison Taunt in start (prime mode) 
+Bison add new victory pose
+Bison Psycho Crusher - burn the same color as your palette
+Bison new normal = down + HP (Sprites by AlexFerrero)
+Balrog add ssf2t voice in Dash Punch / Uppercut (prime mode)
+New animation when defeating Chun Li without losing a round and the last attack being a counterattack. 
+(Sprites by AlexFerrero)
+In Dhalsim background only medium-sized elephants on the screen make sound
+No extra "random damage" in PVP  
+New Stand pose for Akuma (Sprites by ErnartCastel) 
+Tech Hit new command = hold any direction + any button 
+Guile ssf2t Somersault Kick new sound
+
+=======================================================================================================
+0.66
+
+Fix Chun Li CPU Kikoken bug in ver 0.65
+Balrog Turn Punch hitbox adjusted
 New Background added for Akuma (selectable in PvP)
 Blanka Rock Crush Overhead (foward + mp)
 Zanguief mk, hk, lariat ssf2t hitbox
