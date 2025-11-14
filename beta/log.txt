@@ -5,7 +5,7 @@ https://discord.gg/nUqV3CJx
 
 
 =======================================================================================================
-0.68
+0.68b
 
 Select Screen Character preview and color selection in Start or hold Start + left or right 
 Display damage percentage in HITS Message
@@ -30,6 +30,7 @@ No extra "random damage" in PVP
 New Stand pose for Akuma (Sprites by ErnartCastel) 
 Tech Hit new command = hold any direction + any button 
 Guile ssf2t Somersault Kick new sound
+Honda Background with SF2 colors
 
 =======================================================================================================
 0.66
