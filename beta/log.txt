@@ -5,7 +5,7 @@ https://discord.gg/nUqV3CJx
 
 
 =======================================================================================================
-0.68b
+0.68c
 
 Select Screen Character preview and color selection in Start or hold Start + left or right 
 Display damage percentage in HITS Message
@@ -23,8 +23,9 @@ Bison add new victory pose
 Bison Psycho Crusher - burn the same color as your palette
 Bison new normal = down + HP (Sprites by AlexFerrero)
 Balrog add ssf2t voice in Dash Punch / Uppercut (prime mode)
-New animation when defeating Chun Li without losing a round and the last attack being a counterattack. 
+Chun Li - New animation when defeating without losing a round and the last attack being a counterattack. 
 "Sexy KO" (Sprites by AlexFerrero)
+Chun li with all ssf2t voices
 In Dhalsim background only medium-sized elephants on the screen make sound
 No extra "random damage" in PVP  
 New Stand pose for Akuma (Sprites by ErnartCastel) 
