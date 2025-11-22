@@ -10,7 +10,7 @@ https://discord.gg/nUqV3CJx
 Select Screen Character preview and color selection in Start or hold Start + left or right 
 Display damage percentage in HITS Message
 Added Blanka wall jump (prime mode)
-Blanka Rolling Attack can be done on the air (prime mode) 
+Blanka Rolling Attack can be done on the air spending  1/3 of the Stun points (prime mode) 
 Blanka Static Ball - back + down + HP / overhead (prime mode)
 Blanka Slide - foward + down + HP (prime mode)
 Blanka Taunt in start (prime mode) 
