@@ -5,7 +5,7 @@ https://discord.gg/nUqV3CJx
 
 
 =======================================================================================================
-0.68c
+0.68d
 
 Select Screen Character preview and color selection in Start or hold Start + left or right 
 Display damage percentage in HITS Message
@@ -16,7 +16,7 @@ Blanka Slide - foward + down + HP (prime mode)
 Blanka Taunt in start (prime mode) 
 Blanka Vertical Roll hits can make combos
 Blanka strong Rolling Attack and Vertical Roll knock down  
-Adjustments to Blanka, Chun Li, and Bison sprites
+Adjustments to Blanka, Chun Li, Guile and Bison sprites
 Bison Head Press -> Attack Burns and reduces defense damage 
 Bison Taunt in start (prime mode) 
 Bison add new victory pose
