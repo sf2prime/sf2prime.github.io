@@ -5,7 +5,7 @@ https://discord.gg/nUqV3CJx
 
 
 =======================================================================================================
-0.68d
+0.68e
 
 Select Screen Character preview and color selection in Start or hold Start + left or right 
 Display damage percentage in HITS Message
@@ -30,7 +30,10 @@ In Dhalsim background only medium-sized elephants on the screen make sound
 No extra "random damage" in PVP  
 New Stand pose for Akuma (Sprites by ErnartCastel) 
 Tech Hit new command = hold any direction + any button 
-Guile ssf2t Somersault Kick new sound
+Guile Somersault Kick new sound
+Guile throws with ssf2t sounds
+Guile Vertical Sonic Boom - hold down + up + P or hold back + up + foward + P (prime mode)
+Guile CPU use Vertical Sonic Boom (prime mode)
 Honda Background with SF2 colors
 
 =======================================================================================================
