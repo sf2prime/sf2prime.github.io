@@ -30,6 +30,7 @@ In Dhalsim background only medium-sized elephants on the screen make sound
 No extra "random damage" in PVP  
 New Stand pose for Akuma (Sprites by ErnartCastel) 
 Tech Hit new command = hold any direction + any button 
+Guile Taunt in start (prime mode) 
 Guile Somersault Kick new sound
 Guile throws with ssf2t sounds
 Guile Vertical Sonic Boom - hold down + up + P or hold back + up + foward + P (prime mode)
