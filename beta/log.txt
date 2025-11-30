@@ -5,7 +5,7 @@ https://discord.gg/nUqV3CJx
 
 
 =======================================================================================================
-0.68e
+0.68f
 
 Select Screen Character preview and color selection in Start or hold Start + left or right 
 Display damage percentage in HITS Message
@@ -35,7 +35,11 @@ Guile Somersault Kick new sound
 Guile throws with ssf2t sounds
 Guile Vertical Sonic Boom - hold down + up + P or hold back + up + foward + P (prime mode)
 Guile CPU use Vertical Sonic Boom (prime mode)
-Honda Background with SF2 colors
+Guile Diagonal Jumping MK crossup
+Honda Background with colors from SF2CRE (https://sf2cre.blogspot.com/) 
+No Counter message in Bonus
+Fixing several minor bugs and glitches (reported by Fire's Will T0)
+
 
 =======================================================================================================
 0.66
@@ -47,7 +51,7 @@ Blanka Rock Crush Overhead (foward + mp)
 Zanguief mk, hk, lariat ssf2t hitbox
 Honda Sumo Smash hitbox adjusted to make it easier to dodge projectiles 
 Sagat Background with SF2 colors
-Fix boss names victory em pvp (thanks to Fire's will T0)
+Fix boss names victory em pvp (reported by Fire's Will T0)
 Fix You Loose sound (thanks to Fire's will T0)
 Fix Chun Li rapid light punch
 Chun Li Tumbling Kick Overhead (foward + hk)
