@@ -5,7 +5,21 @@ https://discord.gg/nUqV3CJx
 
 
 =======================================================================================================
-0.68f
+0.69a
+
+Guile Taunt in start (prime mode) 
+Guile Somersault Kick new sound
+Guile throws with ssf2t sounds
+Guile Vertical Sonic Boom - hold down + up + P or hold back + up + foward + P (prime mode)
+Guile CPU use Vertical Sonic Boom (prime mode)
+Guile Diagonal Jumping MK crossup
+Guile add new victory pose
+Sagat new hit by Fire anim 
+Sagat Taunt in start (prime mode)
+
+
+=======================================================================================================
+0.68
 
 Select Screen Character preview and color selection in Start or hold Start + left or right 
 Display damage percentage in HITS Message
@@ -30,12 +44,6 @@ In Dhalsim background only medium-sized elephants on the screen make sound
 No extra "random damage" in PVP  
 New Stand pose for Akuma (Sprites by ErnartCastel) 
 Tech Hit new command = hold any direction + any button 
-Guile Taunt in start (prime mode) 
-Guile Somersault Kick new sound
-Guile throws with ssf2t sounds
-Guile Vertical Sonic Boom - hold down + up + P or hold back + up + foward + P (prime mode)
-Guile CPU use Vertical Sonic Boom (prime mode)
-Guile Diagonal Jumping MK crossup
 Honda Background with colors from SF2CRE (https://sf2cre.blogspot.com/) 
 No Counter message in Bonus
 Fixing several minor bugs and glitches (reported by Fire's Will T0)
