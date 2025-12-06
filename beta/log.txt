@@ -5,7 +5,7 @@ https://discord.gg/nUqV3CJx
 
 
 =======================================================================================================
-0.69a
+0.69b
 
 Guile Taunt in start (prime mode) 
 Guile Somersault Kick new sound
