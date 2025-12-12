@@ -5,7 +5,7 @@ https://discord.gg/nUqV3CJx
 
 
 =======================================================================================================
-0.69b
+0.69c
 
 Guile Taunt in start (prime mode) 
 Guile Somersault Kick new sound
@@ -16,7 +16,10 @@ Guile Diagonal Jumping MK crossup
 Guile add new victory pose
 Sagat new hit by Fire anim 
 Sagat Taunt in start (prime mode)
-
+Ryu Taunt in start (prime mode)
+Ryu add new victory pose
+Ryu add new intro pose (prime mode)
+Dhalsim Yoga Flame commando d,db,b,P (prime mode)
 
 =======================================================================================================
 0.68
