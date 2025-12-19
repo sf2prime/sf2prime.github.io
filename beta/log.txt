@@ -3,9 +3,8 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 
-
 =======================================================================================================
-0.69c
+0.69d
 
 Guile Taunt in start (prime mode) 
 Guile Somersault Kick new sound
