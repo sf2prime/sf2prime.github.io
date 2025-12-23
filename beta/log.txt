@@ -4,7 +4,7 @@ Discord Channel:
 https://discord.gg/nUqV3CJx
 
 =======================================================================================================
-0.69d
+0.69e
 
 Guile Taunt in start (prime mode) 
 Guile Somersault Kick new sound
@@ -21,6 +21,7 @@ Ryu add new intro pose (prime mode) (BlizzardC1000 sprites)
 Dhalsim Yoga Flame commando d,db,b,P (prime mode)
 Redid all electrical damage sprites with the same palette 
 Honda Taunt in start (prime mode) 
+Zangief Taunt in start (prime mode) 
 
 =======================================================================================================
 0.68
