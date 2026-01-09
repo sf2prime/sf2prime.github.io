@@ -4,7 +4,7 @@ Discord Channel:
 https://discord.gg/nUqV3CJx
 
 =======================================================================================================
-0.69e
+0.69f
 
 Guile Taunt in start (prime mode) 
 Guile Somersault Kick new sound
@@ -12,39 +12,55 @@ Guile throws with ssf2t sounds
 Guile Vertical Sonic Boom - hold down + up + P or hold back + up + foward + P (prime mode)
 Guile CPU use Vertical Sonic Boom (prime mode)
 Guile Diagonal Jumping MK crossup
-Guile add new victory pose
+Guile added new victory pose
 Sagat new hit by Fire anim 
 Sagat Taunt in start (prime mode)
 Ryu Taunt in start (prime mode) (BlizzardC1000 sprites)
-Ryu add new victory pose (BlizzardC1000 sprites)
-Ryu add new intro pose (prime mode) (BlizzardC1000 sprites)
-Dhalsim Yoga Flame commando d,db,b,P (prime mode)
+Ryu added new victory pose (BlizzardC1000 sprites)
+Ryu added new intro pose (prime mode) (BlizzardC1000 sprites)
+
+
 Redid all electrical damage sprites with the same palette 
 Honda Taunt in start (prime mode) 
 Zangief Taunt in start (prime mode) 
+Zangief added new intro pose (prime mode)
+Dhalsim Taunt in start (prime mode) 
+Dhalsim added new intro pose (prime mode)
+Dhalsim Yoga Flame command d,db,b,P (prime mode)
+Dhalsim Yoga Fire light not knock down (all modes)
+Fix Dhalsim Yoga Teleport command (thanks ARGLegends)
+Sagat Crouching tiger with slightly different sprite (all modes)
+Fixed invisible Vega claws in some cases (all modes) 
+Vega Barcelona Attack hp knock down (all modes)
+Down + HK with cancellation for all characters (prime mode)
+Down + HK damage if Counter is not invincible (prime mode) 
+Akuma added new victory pose
+Vega Taunt in start (prime mode)
+Vega with all ssf2t voices (all modes)
+
 
 =======================================================================================================
 0.68
 
 Select Screen Character preview and color selection in Start or hold Start + left or right 
 Display damage percentage in HITS Message
-Added Blanka wall jump (prime mode)
+addeded Blanka wall jump (prime mode)
 Blanka Rolling Attack can be done on the air spending  1/3 of the Stun points (prime mode) 
 Blanka Static Ball - back + down + HP / overhead (prime mode)
 Blanka Slide - foward + down + HP (prime mode)
 Blanka Taunt in start (prime mode) 
 Blanka Vertical Roll hits can make combos
 Blanka strong Rolling Attack and Vertical Roll knock down  
-Adjustments to Blanka, Chun Li, Guile and Bison sprites
+Adjustments to Blanka, Chun Li, Guile, Dhalsim and Bison sprites
 Bison Head Press -> Attack Burns and reduces defense damage 
 Bison Taunt in start (prime mode) 
-Bison add new victory pose
+Bison added new victory pose
 Bison Psycho Crusher - burn the same color as your palette
 Bison new normal = down + HP (Sprites by AlexFerrero)
-Balrog add ssf2t voice in Dash Punch / Uppercut (prime mode)
+Balrog added ssf2t voice in Dash Punch / Uppercut (prime mode)
 Chun Li - New animation when defeating without losing a round and the last attack being a counterattack. 
 "Sexy KO" (Sprites by AlexFerrero)
-Chun li with all ssf2t voices
+Chun Li with all ssf2t voices (all modes)
 In Dhalsim background only medium-sized elephants on the screen make sound
 No extra "random damage" in PVP  
 New Stand pose for Akuma (Sprites by ErnartCastel) 
@@ -59,7 +75,7 @@ Fixing several minor bugs and glitches (reported by Fire's Will T0)
 
 Fix Chun Li CPU Kikoken bug in ver 0.65
 Balrog Turn Punch hitbox adjusted
-New Background added for Akuma (selectable in PvP)
+New Background addeded for Akuma (selectable in PvP)
 Blanka Rock Crush Overhead (foward + mp)
 Zanguief mk, hk, lariat ssf2t hitbox
 Honda Sumo Smash hitbox adjusted to make it easier to dodge projectiles 
@@ -204,7 +220,7 @@ Ryu, Ken Akuma tatsumaki passes through projectiles (prime mode)
 Chun Li Spinning Bird Kick passes through projectiles (all modes)
 Guile hit 1 HP Somersault Kick juggle in (prime mode)
 Sagat Tiger Knee command (f,d,df + K) in (all modes)
-Chun li Kikoken ssf2 sprites in prime mode
+Chun Li Kikoken ssf2 sprites in prime mode
 Balrog Turn Punch just hold HP or HK in (all modes)
 No intro in sf2ce and sf2hf modes
 
