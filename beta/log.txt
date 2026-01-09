@@ -35,7 +35,7 @@ Vega Barcelona Attack hp knock down (all modes)
 Down + HK with cancellation for all characters (prime mode)
 Down + HK damage if Counter is not invincible (prime mode) 
 Akuma added new victory pose
-Vega Taunt in start (prime mode)
+Vega Taunt in start - claw drop (prime mode) 
 Vega with all ssf2t voices (all modes)
 
 
