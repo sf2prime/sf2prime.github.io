@@ -4,7 +4,7 @@ Discord Channel:
 https://discord.gg/nUqV3CJx
 
 =======================================================================================================
-0.69h
+0.69i
 
 Guile Taunt in start (prime mode) 
 Guile Somersault Kick new sound
@@ -13,7 +13,7 @@ Guile Vertical Sonic Boom - hold down + up + P or hold back + up + foward + P (p
 Guile CPU use Vertical Sonic Boom (prime mode)
 Guile Diagonal Jumping MK crossup
 Guile added new victory pose
-Sagat new hit by Fire anim 
+Sagat new anim if damaged by Fire 
 Sagat Taunt in start (prime mode)
 Ryu Taunt in start (prime mode) (BlizzardC1000 sprites)
 Ryu added new victory pose (BlizzardC1000 sprites)
@@ -38,7 +38,13 @@ Vega Barcelona Attack hp knock down (all modes)
 Vega Taunt in start (prime mode)
 Vega with all ssf2t voices (all modes)
 Vega when losing his claw, can grab the floor like in ssf2t (prime mode)
-Vega new move d,df,f + P [thanks @AndreRugalRecife00] (prime mode)
+Vega new move d,df,f + P "biting bird" [thanks @AndreRugalRecife00] (prime mode)
+Vega CPU use "biting bird" (prime mode)
+Vega CPU use Barcelona Attack in wall (all modes)
+Balrog added new intro pose (prime mode)
+Honda added new intro pose (prime mode)
+Fix Sonic Boom CPU detect (thanks @Ngt.sotts)
+Greater difficulty if you are at level 8
 
 
 =======================================================================================================
