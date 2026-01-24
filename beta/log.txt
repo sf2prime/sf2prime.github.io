@@ -4,7 +4,7 @@ Discord Channel:
 https://discord.gg/nUqV3CJx
 
 =======================================================================================================
-0.69i
+0.69j
 
 Guile Taunt in start (prime mode) 
 Guile Somersault Kick new sound
@@ -42,6 +42,7 @@ Vega new move d,df,f + P "biting bird" [thanks @AndreRugalRecife00] (prime mode)
 Vega CPU use "biting bird" (prime mode)
 Vega CPU use Barcelona Attack in wall (all modes)
 Balrog added new intro pose (prime mode)
+Balrog Taunt in start (prime mode)
 Honda added new intro pose (prime mode)
 Fix Sonic Boom CPU detect (thanks @Ngt.sotts)
 Greater difficulty if you are at level 8
