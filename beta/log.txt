@@ -4,7 +4,39 @@ Discord Channel:
 https://discord.gg/nUqV3CJx
 
 =======================================================================================================
-0.69j
+0.70
+
+Redid all electrical damage sprites with the same palette 
+Honda Taunt in start (prime mode) 
+Zangief Taunt in start (prime mode) 
+Zangief added new intro pose (prime mode)
+Dhalsim Taunt in start (prime mode) 
+Dhalsim added new intro pose (prime mode)
+Dhalsim Yoga Flame command d,db,b,P (prime mode)
+Dhalsim Yoga Fire light not knock down (all modes)
+Fix Dhalsim Yoga Teleport command (thanks ARGLegends)
+Fixed invisible Vega claws in some cases (all modes) 
+Down + HK with cancellation for all characters (prime mode)
+Down + HK damage if Counter is not invincible (prime mode) 
+Akuma added new victory pose
+Vega Barcelona Attack hp knock down (all modes)
+Vega Taunt in start (prime mode)
+Vega with all ssf2t voices (all modes)
+Vega when losing his claw, can grab the floor like in ssf2t (prime mode)
+Vega new move d,df,f + P "biting bird" [thanks @AndreRugalRecife00] (prime mode)
+Vega CPU use "biting bird" (prime mode)
+Vega CPU use Barcelona Attack in wall (all modes)
+Balrog added new intro pose (prime mode)
+Balrog Taunt in start (prime mode)
+Balrog new move Buffalo Headbutt - hold down, up + P (prime mode)
+Honda added new intro pose (prime mode)
+Fix Sonic Boom CPU detect (thanks @Ngt.sotts)
+Chun Li new kick - back + HK (prime mode)
+Greater difficulty if you are at level 8
+
+
+=======================================================================================================
+0.69
 
 Guile Taunt in start (prime mode) 
 Guile Somersault Kick new sound
@@ -19,39 +51,10 @@ Ryu Taunt in start (prime mode) (BlizzardC1000 sprites)
 Ryu added new victory pose (BlizzardC1000 sprites)
 Ryu added new intro pose (prime mode) (BlizzardC1000 sprites)
 
-
-Redid all electrical damage sprites with the same palette 
-Honda Taunt in start (prime mode) 
-Zangief Taunt in start (prime mode) 
-Zangief added new intro pose (prime mode)
-Dhalsim Taunt in start (prime mode) 
-Dhalsim added new intro pose (prime mode)
-Dhalsim Yoga Flame command d,db,b,P (prime mode)
-Dhalsim Yoga Fire light not knock down (all modes)
-Fix Dhalsim Yoga Teleport command (thanks ARGLegends)
-Sagat Crouching tiger with slightly different sprite (all modes)
-Fixed invisible Vega claws in some cases (all modes) 
-Down + HK with cancellation for all characters (prime mode)
-Down + HK damage if Counter is not invincible (prime mode) 
-Akuma added new victory pose
-Vega Barcelona Attack hp knock down (all modes)
-Vega Taunt in start (prime mode)
-Vega with all ssf2t voices (all modes)
-Vega when losing his claw, can grab the floor like in ssf2t (prime mode)
-Vega new move d,df,f + P "biting bird" [thanks @AndreRugalRecife00] (prime mode)
-Vega CPU use "biting bird" (prime mode)
-Vega CPU use Barcelona Attack in wall (all modes)
-Balrog added new intro pose (prime mode)
-Balrog Taunt in start (prime mode)
-Honda added new intro pose (prime mode)
-Fix Sonic Boom CPU detect (thanks @Ngt.sotts)
-Greater difficulty if you are at level 8
-
-
 =======================================================================================================
 0.68
 
-Select Screen Character preview and color selection in Start or hold Start + left or right 
+Select Screen Character preview and color selection in "Start" or "hold Start" + left or right 
 Display damage percentage in HITS Message
 addeded Blanka wall jump (prime mode)
 Blanka Rolling Attack can be done on the air spending  1/3 of the Stun points (prime mode) 
