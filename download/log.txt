@@ -4,6 +4,12 @@ Discord Channel:
 https://discord.gg/nUqV3CJx
 
 =======================================================================================================
+0.71
+
+Fix Ryu normals (thanks Fire's Will T0) 
+Guile new intro
+
+=======================================================================================================
 0.70
 
 Redid all electrical damage sprites with the same palette 
