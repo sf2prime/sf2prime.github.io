@@ -4,6 +4,19 @@ Discord Channel:
 https://discord.gg/nUqV3CJx
 
 =======================================================================================================
+0.72
+
+Fix Blnka normals kicks (thanks Persona)
+Dhalsim Yoga Yoga Mummy	and Yoga Spear knockdown (all modes)
+Sagat added new intro pose (prime mode)
+ 
+=======================================================================================================
+0.71
+
+Fix Ryu normals [foward + mp and foward + hp]  (thanks Fire's Will T0) 
+Guile added new intro pose (prime mode)
+
+=======================================================================================================
 0.70
 
 Redid all electrical damage sprites with the same palette 
