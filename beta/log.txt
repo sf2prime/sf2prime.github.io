@@ -9,7 +9,8 @@ https://discord.gg/nUqV3CJx
 Fix Blnka normals kicks (thanks Persona)
 Fix Tech Hit commands and logic (thanks @Ngt.sotts)
 Dhalsim Yoga Yoga Mummy	and Yoga Spear knockdown (all modes)
-Dhalsim Yoga Fire does not end when it hits another projectile (prime mode)
+Dhalsim Yoga Flame does not end when it hits another projectile (prime mode)
+Dhalsim Yoga Flame hitbox adjusts (all modes)
 Sagat added new intro pose (prime mode)
  
 =======================================================================================================
