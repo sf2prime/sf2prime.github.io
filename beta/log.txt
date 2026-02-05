@@ -4,7 +4,7 @@ Discord Channel:
 https://discord.gg/nUqV3CJx
 
 =======================================================================================================
-0.71b
+0.71c
 
 Fix Blnka normals kicks (thanks Persona)
 Fix Tech Hit commands and logic (thanks @Ngt.sotts)
@@ -12,6 +12,8 @@ Dhalsim Yoga Yoga Mummy	and Yoga Spear knockdown (all modes)
 Dhalsim Yoga Flame does not end when it hits another projectile (prime mode)
 Dhalsim Yoga Flame hitbox adjusts (all modes)
 Sagat added new intro pose (prime mode)
+Blanka Electric Thunder nullifies projectiles (prime mode)
+Fix Ryu X Hadouken priority (thanks Fire's Will T0)
  
 =======================================================================================================
 0.71
