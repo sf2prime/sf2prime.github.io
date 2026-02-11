@@ -4,7 +4,7 @@ Discord Channel:
 https://discord.gg/nUqV3CJx
 
 =======================================================================================================
-0.71d
+0.71e
 
 Fix Blnka normals kicks (thanks Persona)
 Fix Tech Hit commands and logic (thanks @Ngt.sotts)
@@ -17,6 +17,8 @@ Balrog ssf2t sound in grab (all modes)
 Blanka Electric Thunder nullifies projectiles (prime mode)
 Blanka taunt in Start leave a banana peel (prime mode)
 CPU Blanka can use the banana move (prime mode)
+Ken added new intro pose (prime mode)
+Ken 2 taunts, start or back + start (prime mode)
  
 =======================================================================================================
 0.71
