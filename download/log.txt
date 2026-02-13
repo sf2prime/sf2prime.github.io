@@ -4,10 +4,31 @@ Discord Channel:
 https://discord.gg/nUqV3CJx
 
 =======================================================================================================
+0.72
+
+Fix Blnka normals kicks (thanks Persona)
+Fix Tech Hit commands and logic (thanks @Ngt.sotts)
+Dhalsim Yoga Yoga Mummy	and Yoga Spear knockdown (all modes)
+Dhalsim Yoga Flame does not end when it hits another projectile (prime mode)
+Dhalsim Yoga Flame hitbox adjusts (all modes)
+Sagat added new intro pose (prime mode)
+Fix projectiles prioritys (thanks Fire's Will T0)
+Balrog ssf2t sound in grab (all modes)
+Blanka Electric Thunder nullifies projectiles (prime mode)
+Blanka taunt in Start leave a banana peel (prime mode)
+CPU Blanka can use the banana move (prime mode)
+Ken added new intro pose (prime mode)
+Ken added new win pose (all modes)
+Ken 2 taunts, start or back + start (prime mode)
+Dhalsim adjusted MP hitbox to be better as anti-air (all modes)
+Zangief Increase in Lariat speed  (all modes)
+Zangief added new move - Hopak Kick [down + 3 kicks] (prime mode)
+ 
+=======================================================================================================
 0.71
 
-Fix Ryu normals (thanks Fire's Will T0) 
-Guile new intro
+Fix Ryu normals [foward + mp and foward + hp]  (thanks Fire's Will T0) 
+Guile added new intro pose (prime mode)
 
 =======================================================================================================
 0.70
