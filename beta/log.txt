@@ -4,7 +4,7 @@ Discord Channel:
 https://discord.gg/nUqV3CJx
 
 =======================================================================================================
-0.72a
+0.72c
 
 Dhalsim new move - Yoga Blast [d,db,b + K] (prime mode)
 CPU Dhalsim can use Yoga Blast
@@ -12,10 +12,14 @@ Ryu 2 taunts, start or back + start (prime mode)
 CPU Zangief can use Hopak Kick 
 Zangief added new move - Banishing Flat [f,d,df + P] (prime mode)
 CPU Zangief can use Banishing Flat (prime mode)
+Zangief Double Lariat / Quick Lariat going further (all modes)
 Zangief normal cancel in MP (prime mode)
 Zangief Spinning Piledriver can be executed in combo after normal cancellations (prime mode)
 Zangief Spinning Piledriver can be executed with a 360º or 180º backward command (prime mode)
 Zangief Spinning Piledriver with slightly reduced damage (prime mode)
+Fix Honda damage hitbox (thanks Fire's Will T0) 
+Bison SF4 srong kick (prime mode)(thanks @Ngt.sotts)  
+Ken new mk, f+mk, hk kicks (hold back to force sf2 kicks) (prime mode) 
 
 =======================================================================================================
 0.72
