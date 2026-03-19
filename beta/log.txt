@@ -3,8 +3,20 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 
+
 =======================================================================================================
-0.72c
+0.73a
+
+Fix Blanka Electric Thunder Akuma's Fire Hadouken Block (thanks Fire's Will T0)
+Adjustments to Balrog taunt hitboxes
+Adjustments to Vega Scarlet Terror's hitboxes
+CPU Vega can use Scarlet Terror (prime mode)
+Adjustments in Chun Li sprites (all modes)
+Chun Li added new move - Tenshou Kyaku [f,d,df + K] (prime mode)
+CPU Chun Li can use Tenshou Kyaku (prime mode)
+
+=======================================================================================================
+0.73
 
 Dhalsim new move - Yoga Blast [d,db,b + K] (prime mode)
 CPU Dhalsim can use Yoga Blast
@@ -17,9 +29,11 @@ Zangief normal cancel in MP (prime mode)
 Zangief Spinning Piledriver can be executed in combo after normal cancellations (prime mode)
 Zangief Spinning Piledriver can be executed with a 360º or 180º backward command (prime mode)
 Zangief Spinning Piledriver with slightly reduced damage (prime mode)
-Fix Honda damage hitbox (thanks Fire's Will T0) 
+Fix Honda in damage hitbox (thanks Fire's Will T0) 
 Bison SF4 srong kick (prime mode)(thanks @Ngt.sotts)  
 Ken new mk, f+mk, hk kicks (hold back to force sf2 kicks) (prime mode) 
+Vega added new move - Scarlet Terror [f,d,df + K] (prime mode)
+Guile Background with sf2/ssf2t colors
 
 =======================================================================================================
 0.72
@@ -261,7 +275,7 @@ Ken new start color (prime mode)
 Chun Li new start color (prime mode)
 
 =======================================================================================================
-0.4
+0.40
 
 Vega just Wall Dive's weak kick sends him into the fence (Vega background) 
 fix freeze bug in round end
@@ -282,7 +296,7 @@ Balrog Turn Punch just hold HP or HK in (all modes)
 No intro in sf2ce and sf2hf modes
 
 =======================================================================================================
-0.3
+0.30
 
 - Vesus Mode (always select character) in (all modes)
 - Random Backgrounds in PVP (all modes)
