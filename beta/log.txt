@@ -5,13 +5,13 @@ https://discord.gg/nUqV3CJx
 
 
 =======================================================================================================
-0.73a
+0.73b
 
 Fix Blanka Electric Thunder Akuma's Fire Hadouken Block (thanks Fire's Will T0)
 Adjustments to Balrog taunt hitboxes
 Adjustments to Vega Scarlet Terror's hitboxes
 CPU Vega can use Scarlet Terror (prime mode)
-Adjustments in Chun Li sprites (all modes)
+Adjustments in Chun Li, Guile sprites (all modes)
 Chun Li added new move - Tenshou Kyaku [f,d,df + K] (prime mode)
 CPU Chun Li can use Tenshou Kyaku (prime mode)
 
