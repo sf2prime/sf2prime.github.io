@@ -3,6 +3,19 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 
+
+=======================================================================================================
+0.74
+
+Fix Blanka Electric Thunder Akuma's Fire Hadouken Block (thanks Fire's Will T0)
+Adjustments to Balrog taunt hitboxes
+Adjustments to Vega Scarlet Terror's hitboxes
+CPU Vega can use Scarlet Terror (prime mode)
+Adjustments in Chun Li, Guile sprites (all modes)
+Chun Li added new move - Tenshou Kyaku [f,d,df + K] (prime mode)
+CPU Chun Li can use Tenshou Kyaku (prime mode)
+Guile added ssf2t HK or hold back for sf2 HK kick (prime mode)
+
 =======================================================================================================
 0.73
 
@@ -263,7 +276,7 @@ Ken new start color (prime mode)
 Chun Li new start color (prime mode)
 
 =======================================================================================================
-0.4
+0.40
 
 Vega just Wall Dive's weak kick sends him into the fence (Vega background) 
 fix freeze bug in round end
@@ -284,7 +297,7 @@ Balrog Turn Punch just hold HP or HK in (all modes)
 No intro in sf2ce and sf2hf modes
 
 =======================================================================================================
-0.3
+0.30
 
 - Vesus Mode (always select character) in (all modes)
 - Random Backgrounds in PVP (all modes)
