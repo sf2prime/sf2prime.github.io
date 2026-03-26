@@ -5,6 +5,13 @@ https://discord.gg/nUqV3CJx
 
 
 =======================================================================================================
+0.75
+
+Fix Chun Li back + HK (prime mode) (thanks Pu_mu_ki_69)
+Chun Li's KO portrait changes if she is defeated by a sexy KO (prime mode)
+Added victory quotes from SF2Mix 
+
+=======================================================================================================
 0.74
 
 Fix Blanka Electric Thunder Akuma's Fire Hadouken Block (thanks Fire's Will T0)
