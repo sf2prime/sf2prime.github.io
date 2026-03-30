@@ -1,0 +1,11 @@
+
+emulatorjs:
+  netplay:
+    enabled: true
+    ice_servers:
+      - urls: "stun:stun.relay.metered.ca:80"
+      - urls: "turn:global.relay.metered.ca:80"
+        username: "sf2prime"
+        credential: ""
+        
+        
