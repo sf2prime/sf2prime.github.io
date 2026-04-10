@@ -11,7 +11,7 @@ Fixes Chun Li Sex KO portrait (prime mode)
 Fix Chun Li quick LP sound. 
 Fix a very specific situation in which Vega loses claw and can't hold on
 Fix foward + MP Blanka hitbox
-3 different color schemes for Guile's scene—morning, afternoon, and night (all modes)
+3 different color schemes for Guile's background morning, afternoon, and night (all modes)
 
 =======================================================================================================
 0.75
