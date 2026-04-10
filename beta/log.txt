@@ -5,7 +5,23 @@ https://discord.gg/nUqV3CJx
 
 
 =======================================================================================================
-0.73b
+0.75b
+
+Fixes Chun Li Sex KO portrait (prime mode)
+Fix Chun Li quick LP sound. 
+Fix a very specific situation in which Vega loses claw and can't hold on
+Fix foward + MP Blanka hitbox
+3 different color schemes for Guile's scene—morning, afternoon, and night (all modes)
+
+=======================================================================================================
+0.75
+
+Fix Chun Li back + HK (prime mode) (thanks Pu_mu_ki_69)
+Chun Li's KO portrait changes if she is defeated by a sexy KO (prime mode)
+Added victory quotes from SF2Mix 
+
+=======================================================================================================
+0.74
 
 Fix Blanka Electric Thunder Akuma's Fire Hadouken Block (thanks Fire's Will T0)
 Adjustments to Balrog taunt hitboxes
@@ -14,6 +30,7 @@ CPU Vega can use Scarlet Terror (prime mode)
 Adjustments in Chun Li, Guile sprites (all modes)
 Chun Li added new move - Tenshou Kyaku [f,d,df + K] (prime mode)
 CPU Chun Li can use Tenshou Kyaku (prime mode)
+Guile added ssf2t HK or hold back for sf2 HK kick (prime mode)
 
 =======================================================================================================
 0.73
