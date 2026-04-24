@@ -5,7 +5,7 @@ https://discord.gg/nUqV3CJx
 
 
 =======================================================================================================
-0.75c
+0.75d
 
 Fixes Chun Li Sex KO portrait (prime mode)
 Fix Chun Li quick LP sound. 
@@ -13,6 +13,7 @@ Fix a very specific situation in which Vega loses claw and can't hold on
 Fix foward + MP Blanka hitbox
 Guile's Sf2 kick has changed to hold foward + HK (prime mode)
 3 different color schemes for some backgrounds (all modes) (not finished)
+Fix Counter bugs
 
 =======================================================================================================
 0.75
