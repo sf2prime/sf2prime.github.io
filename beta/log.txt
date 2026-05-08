@@ -5,15 +5,19 @@ https://discord.gg/nUqV3CJx
 
 
 =======================================================================================================
-0.75d
+0.75e
 
 Fixes Chun Li Sex KO portrait (prime mode)
 Fix Chun Li quick LP sound. 
 Fix a very specific situation in which Vega loses claw and can't hold on
 Fix foward + MP Blanka hitbox
 Guile's Sf2 kick has changed to hold foward + HK (prime mode)
-3 different color schemes for some backgrounds (all modes) (not finished)
-Fix Counter bugs
+Fix Counter bugs nullifies projectiles (thanks 
+Fix CPU Blanka Electric Thunder (thanks @Ngt.sotts)  
+Higher difficulty in the bonus backgrounds (all modes)
+The pots in Dhalsim's background are now breakable objects (prime mode) 
+3 different color schemes for all backgrounds (all modes)
+(thanks @Crayfis for Claw background round 3 colors)
 
 =======================================================================================================
 0.75
