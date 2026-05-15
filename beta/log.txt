@@ -5,7 +5,7 @@ https://discord.gg/nUqV3CJx
 
 
 =======================================================================================================
-0.75e
+0.76
 
 Fixes Chun Li Sex KO portrait (prime mode)
 Fix Chun Li quick LP sound. 
@@ -18,6 +18,9 @@ Higher difficulty in the bonus backgrounds (all modes)
 The pots in Dhalsim's background are now breakable objects (prime mode) 
 3 different color schemes for all backgrounds (all modes)
 (thanks @Crayfis for Claw background round 3 colors)
+As the lights dim on Honda’s stage, the characters fade into the shadows 
+In Sagat's background, if Sagat loses the round and falls very close to the Tiger, he crouches down
+If a character other than Sagat loses both rounds and falls near the Tiger, they get a cool tattoo 
 
 =======================================================================================================
 0.75

@@ -5,10 +5,28 @@ https://discord.gg/nUqV3CJx
 
 
 =======================================================================================================
+0.76
+
+Fixes Chun Li Sex KO portrait (prime mode)
+Fix Chun Li quick LP sound. 
+Fix a very specific situation in which Vega loses claw and can't hold on
+Fix foward + MP Blanka hitbox
+Guile's Sf2 kick has changed to hold foward + HK (prime mode)
+Fix Counter bugs nullifies projectiles (thanks 
+Fix CPU Blanka Electric Thunder (thanks @Ngt.sotts)  
+Higher difficulty in the bonus backgrounds (all modes)
+The pots in Dhalsim's background are now breakable objects (prime mode) 
+3 different color schemes for all backgrounds (all modes)
+(thanks @Crayfis for Claw background round 3 colors)
+As the lights dim on Honda’s stage, the characters fade into the shadows 
+In Sagat's background, if Sagat loses the round and falls very close to the Tiger, he crouches down
+If a character other than Sagat loses both rounds and falls near the Tiger, they get a cool tattoo 
+
+=======================================================================================================
 0.75
 
 Fix Chun Li back + HK (prime mode) (thanks Pu_mu_ki_69)
-Chun Li's KO portrait changes if she is defeated by a sexy KO (Sprites by AlexFerrero) (prime mode)
+Chun Li's KO portrait changes if she is defeated by a sexy KO (prime mode)
 Added victory quotes from SF2Mix 
 
 =======================================================================================================
