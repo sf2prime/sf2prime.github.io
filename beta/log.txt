@@ -3,6 +3,17 @@ Discord Channel:
 
 https://discord.gg/nUqV3CJx
 
+=======================================================================================================
+
+0.76a
+
+Fixed some backgrounds palettes after win the round
+Fixed Vega colision before Zangief SPD (thanks Fire's Will T0)
+Fixed English names in Special Finish (thanks Fire's Will T0)
+Improved lighting control for characters in the new nighttime scenes 
+Easier to escape from tap grabs
+Blanka Slide increase in recovery time 
+Ryu added new move - Fake Hadouken (d,db,f + P)   
 
 =======================================================================================================
 0.76
