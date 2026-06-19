@@ -10,12 +10,13 @@ https://discord.gg/nUqV3CJx
 Fixed some backgrounds palettes after win the round
 Fixed Vega colision before Zangief SPD (thanks Fire's Will T0)
 Fixed English names in Special Finish (thanks Fire's Will T0)
-Improved lighting control for characters in the new nighttime scenes 
-Easier to escape from tap grabs
-Blanka Slide increase in recovery time 
-Fixed the “Perfect” condition in Bonus 2
-Ryu added new move - Fake Hadouken (d,db,f + P)   
-Added Back Dash (2x back) 
+Improved lighting control for characters in the new nighttime scenes (all modes) 
+Easier to escape from tap grabs (prime mode)
+Blanka Slide increase in recovery time (prime mode)
+Fixed the “Perfect” condition in Bonus 2 (all modes)
+Zangief Lariat hitbox adjustment (prime mode)
+Ryu added new move - Fake Hadouken (d,db,f + P) (prime mode)   
+Added Back Dash (2x back) (prime mode)
 
 =======================================================================================================
 0.76
