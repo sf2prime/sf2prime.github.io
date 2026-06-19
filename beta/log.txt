@@ -5,7 +5,7 @@ https://discord.gg/nUqV3CJx
 
 =======================================================================================================
 
-0.76a
+0.76b
 
 Fixed some backgrounds palettes after win the round
 Fixed Vega colision before Zangief SPD (thanks Fire's Will T0)
@@ -13,7 +13,9 @@ Fixed English names in Special Finish (thanks Fire's Will T0)
 Improved lighting control for characters in the new nighttime scenes 
 Easier to escape from tap grabs
 Blanka Slide increase in recovery time 
+Fixed the “Perfect” condition in Bonus 2
 Ryu added new move - Fake Hadouken (d,db,f + P)   
+Added Back Dash (2x back) 
 
 =======================================================================================================
 0.76
