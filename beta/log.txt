@@ -5,38 +5,46 @@ https://discord.gg/nUqV3CJx
 
 =======================================================================================================
 
-0.76f
+0.77
 
 Fixed some backgrounds palettes after win the round
 Fixed Vega colision before Zangief SPD (thanks Fire's Will T0)
 Fixed English names in Special Finish (thanks Fire's Will T0)
-Improved lighting control for characters in the new nighttime scenes (all modes) 
-Easier to escape from tap grabs (prime mode)
-Blanka Slide increase in recovery time (prime mode)
+Improved lighting control for characters in the new nighttime backgounds (all modes) 
+Easier to escape from tap grabs in PvP (prime mode)
+Replaced 'Pal' from Palette with 'Col' from Color (all modes) 
+Guile added new win pose (all modes) 
 Fixed the “Perfect” condition in Bonus 2 (all modes)
 Color Adjustments to the Ken Round 3 Background
 Zangief Lariat - slight increase in hitbox (prime mode)
 Zangief Banishing Flat - reduced vulnerability and increased range (prime mode)
 Zangief Hopak Kick - increased range (prime mode)
+Fix Zangief Ending (thanks Fire's Will T0)
 Balrog Turn Punch - Less vulnerability at the start (all modes) 
 Balrog new taunt and intro (prime mode)
-Replaced Pal from Palette with Col from Color (all modes) 
-Akuma modified Color 7 (all modes) 
-Ryu modified Color 1 (all modes)
-Akuma Teleport - Reduced vulnerability duration (all modes)
-Ryu added new move - Fake Hadouken (d,db,f + P) (prime mode)   
-Ryu's Shoryuken and Tatsumaki have slightly reduced damage because they hit twice when countered (all modes) 
 Chun Li Spinning Bird Kick - Reduced vulnerability (all modes)
-Ken Tatsumaki - It can be canceled with a kick (prime mode)  
 Blanka mp, Balrog mp, hp Fixed punch sound (thanks Persona)
+Blanka Slide increase in recovery time (prime mode)
+Blanka added new win pose (all modes) 
+Vega added new win pose (all modes) 
+Fix Blanka round 3 background in CE / HF mode (thanks Fire's Will T0)
+Akuma modified Color 7 (all modes) 
+Akuma Teleport - Reduced vulnerability duration (all modes)
+Ryu modified Color 1 (all modes)
+Ryu's Shoryuken and Tatsumaki have slightly reduced damage because they hit twice when countered (all modes) 
+Ryu added new move - Fake Hadouken (d,db,f + P) (prime mode)   
+Ryu modified Color 7, 9 (all modes)
+Ken added new win pose (all modes) 
+Ken Tatsumaki - It can be canceled with a kick (prime mode)  
 
 Added Long Jump (down -> up) (prime mode)
 Added Step (2x foward) (prime mode)
 Added Back Step (2x back) (prime mode)
+Added Evasion lp + lk or hold lk + lp (prime mode)
+
 CPU can use Long Jump (prime mode)
 CPU can use Step (prime mode)
 CPU can use Back Step (prime mode)
-Added Evasion lp + lk or hold lk + lp - (Not finished for Bison, Sagat, Balrog, and Vega) (prime mode)
 
 =======================================================================================================
 0.76
