@@ -33,7 +33,7 @@ Akuma Teleport - Reduced vulnerability duration (all modes)
 Ryu modified Color 1 (all modes)
 Ryu's Shoryuken and Tatsumaki have slightly reduced damage because they hit twice when countered (all modes) 
 Ryu added new move - Fake Hadouken (d,db,f + P) (prime mode)   
-Ryu modified Color 7, 9 (all modes)
+Ken modified Color 7, 9 (all modes)
 Ken added new win pose (all modes) 
 Ken Tatsumaki - It can be canceled with a kick (prime mode)  
 
