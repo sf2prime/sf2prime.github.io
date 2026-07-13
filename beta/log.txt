@@ -5,6 +5,14 @@ https://discord.gg/nUqV3CJx
 
 =======================================================================================================
 
+0.78
+
+Fixed step / back step does not trigger the enemy's guard 
+Bison Psycho Crusher with the voice of the Street Fighter Alpha
+
+
+=======================================================================================================
+
 0.77
 
 Fixed some backgrounds palettes after win the round
