@@ -5,6 +5,16 @@ https://discord.gg/nUqV3CJx
 
 =======================================================================================================
 
+0.80
+
+Fix CPU in CE / HF mode
+Fix Ryu Fake Hadouken / Guile Vertical Sonic Boom in CE / HF mode 
+Fix Honda Ending (thanks Fire's Will T0)
+Fix Chun Li Sexy KO Portrait in Continue
+
+
+=======================================================================================================
+
 0.79
 
 Fixed Vega Evasion bug 
